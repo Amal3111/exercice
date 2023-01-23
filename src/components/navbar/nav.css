@@ -1,0 +1,15 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+ul li:nth-child(1){
+    background-color: red;
+}
+ul li:nth-child(2){
+    background-color: green;
+}
+ul{
+    list-style: none;
+    display: flex;
+    margin: 0 60px;
+}   
